@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there welcome to my Github
 
-<!--
-**MesutKihal/MesutKihal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Messaoud I am a python programmer
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![python](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/96/Other-python-icon.png)
+
+### Here are my projects
+
+* [Pirate Hunter](https://github.com/MesutKihal/PirateHunter)
+* [Sudoku](https://github.com/MesutKihal/Sudoku)
+
+### Here are my stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=MesutKihal)
