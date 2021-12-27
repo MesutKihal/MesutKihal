@@ -12,7 +12,7 @@ Hi there this Mesut's Github
 * [Flappy Eagle](https://github.com/MesutKihal/FlappyEagle)
 
 ### Certificates
-* CS50 Introduction to computer science 
+* [CS50 Introduction to computer science](https://github.com/MesutKihal/MesutKihal/blob/main/CS50x.pdf)
 
 ### Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=MesutKihal)
