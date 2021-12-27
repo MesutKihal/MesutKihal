@@ -9,8 +9,10 @@ Hi there this Mesut's Github
 
 * [Pirate Hunter](https://github.com/MesutKihal/PirateHunter)
 * [Sudoku](https://github.com/MesutKihal/Sudoku)
+* [Flappy Eagle](https://github.com/MesutKihal/FlappyEagle)
 
 ### Certificates
 * CS50 Introduction to computer science 
+
 ### Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=MesutKihal)
