@@ -7,6 +7,7 @@ Hi there this Mesut's Github
 ### Libraries
 * Pygame
 * Tkinter
+* Numpy
 
 ### Projects
 
