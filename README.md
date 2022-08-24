@@ -12,6 +12,9 @@ Hi there this Mesut's Github
 * Tkinter
 * Numpy
 
+### Frameworks
+* Django
+
 ### Projects
 
 * [Pirate Hunter](https://github.com/MesutKihal/PirateHunter)
