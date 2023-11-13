@@ -9,14 +9,6 @@ Hi there this Mesut's Github
 | ![C](https://img.icons8.com/color/96/000000/c-programming.png) | Beginner | Standard library | ... |
 |![JavaScript](https://github.com/MesutKihal/MesutKihal/assets/66731601/0990a1c6-9569-487f-b59a-e9a20bce0179)| Beginner| React | ... |
 
-### Libraries
-* Pygame
-* Tkinter
-* Numpy
-
-### Frameworks
-* Django
-
 ### Projects
 
 * [Cashbox](https://github.com/MesutKihal/Cashbox)
