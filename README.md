@@ -11,7 +11,12 @@ Hi there this Mesut's Github
 
 ### Projects
 
-* [Cashbox](https://github.com/MesutKihal/Cashbox)
+* [HoopoeNews](https://github.com/MesutKihal/CS50W---Projects/tree/main/HoopoeNews)
+* [Network](https://github.com/MesutKihal/CS50W---Projects/tree/main/Network)
+* [Lustremail](https://github.com/MesutKihal/CS50W---Projects/tree/main/Lustremail)
+* [Commerce](https://github.com/MesutKihal/CS50W---Projects/tree/main/Commerce)
+* [Wiki](https://github.com/MesutKihal/CS50W---Projects/tree/main/Wiki)
+* [Search](https://github.com/MesutKihal/CS50W---Projects/tree/main/Search)
 * [Pirate Hunter](https://github.com/MesutKihal/PirateHunter)
 * [Sudoku](https://github.com/MesutKihal/Sudoku)
 * [Flappy Eagle](https://github.com/MesutKihal/FlappyEagle)
