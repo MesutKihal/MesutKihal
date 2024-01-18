@@ -23,6 +23,7 @@ Hi there this Mesut's Github
   
 ### Certificates
 * [CS50 Introduction to computer science](https://github.com/MesutKihal/MesutKihal/blob/main/CS50x.pdf)
+* [CS50 Web programming with Python and JavaScript](https://github.com/MesutKihal/MesutKihal/blob/main/CS50W.pdf)
 
 ### Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=MesutKihal)
