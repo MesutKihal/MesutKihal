@@ -7,10 +7,11 @@ Hi there this Mesut's Github
 |![CSS](https://icons.iconarchive.com/icons/graphics-vibe/developer/96/css-3-icon.png)| Intermediate | Designing Web Pages | ... | Bulma, Bootstrap
 | ![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/96/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png) | Intermediate | Creating, Querying, Altering  and Deleting SQL Tables |  SQLite3, PostgeSQL | ... |
 | ![C](https://img.icons8.com/color/96/000000/c-programming.png) | Beginner | Solving basic programming problems |  Standard library | ... |
-|![JavaScript](https://github.com/MesutKihal/MesutKihal/assets/66731601/0990a1c6-9569-487f-b59a-e9a20bce0179)| Intermediate| DOM manipulation, Working with API's, Canvas animations |  ... | ... |
+|![JavaScript](https://github.com/MesutKihal/MesutKihal/assets/66731601/0990a1c6-9569-487f-b59a-e9a20bce0179)| Intermediate| DOM manipulation, Working with API's, Canvas animations | Fuse.js | ... |
 
 ### Projects
 * [Almaarefa](https://almaarefa.site)
+* [Artblog](https://artblog.onrender.com)
 * [HoopoeNews](https://github.com/MesutKihal/CS50W---Projects/tree/main/HoopoeNews)
 * [Network](https://github.com/MesutKihal/CS50W---Projects/tree/main/Network)
 * [Lustremail](https://github.com/MesutKihal/CS50W---Projects/tree/main/Lustremail)
